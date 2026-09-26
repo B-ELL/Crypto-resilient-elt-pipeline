@@ -3,3 +3,5 @@ urllib3
 psycopg2-binary
 nbconvert
 ipykernel
+pandas
+python-dotenv
